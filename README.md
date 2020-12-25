@@ -6,14 +6,6 @@
   Bootcamp - React Web Developer 🚀
 </h3>
 
-<br>
-
-<h4 align="center">
-React.js é uma das principais bibliotecas da linguagem JavaScript utilizada por desenvolvedores do mundo inteiro e grandes empresas como Netflix, Instagram e Airbnb. Nesse bootcamp você aprenderá os conceitos e práticas do React.js essenciais para o mercado de trabalho.
-</h4>
-
-<br>
-
 <h4 align="center">
 Dio Innovation - Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 </h4>
