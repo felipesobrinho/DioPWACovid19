@@ -92,3 +92,17 @@ $ yarn start
 ```
 
 <br>
+
+---
+<h3 align="center">
+
+  Desenvolvido por Felipe Sobrinho
+  <br/>
+
+  <a align="center">
+
+   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/felipe-sobrinho-107aa51a7/)
+&nbsp;
+  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/felipesobrinho)
+  </a>
+</h3>
