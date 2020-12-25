@@ -20,16 +20,6 @@ Dio Innovation - Desenvolvendo uma Progressive Web Application com React para ma
 
 ---
 
-## 📝 Sobre 
-
-<br>
-
-Este **repositório** tem como objetivo armazenar os **Desafios** do curso **Bootcamp Dio Innovation One** com intuito de colocarmos em prática todo conteúdo estudado durante o curso.
-
-<br>
-
----
-
 ## 📝 Descrição
 
 <br>
