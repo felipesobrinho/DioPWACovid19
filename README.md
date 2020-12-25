@@ -92,17 +92,3 @@ $ yarn start
 ```
 
 <br>
-
----
-<h3 align="center">
-
-  Desenvolvido por Leandro José Janotte
-  <br/>
-
-  <a align="center">
-
-   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/leandrojanotte/)
-&nbsp;
-  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ljanotte)
-  </a>
-</h3>
