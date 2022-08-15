@@ -10,6 +10,8 @@
 Dio Innovation - Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo
 </h4>
 
+<p align="center">Deployed <a href="https://dio-pwa-covid19.vercel.app/">here</a>.</p>
+
 <br>
 
 <p align="center">
