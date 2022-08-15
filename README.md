@@ -12,14 +12,6 @@ Dio Innovation - Desenvolvendo uma Progressive Web Application com React para ma
 
 <p align="center">Deployed <a href="https://dio-pwa-covid19.vercel.app/">here</a>.</p>
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/ljanotte/dio-desafil-webappreact-covid19#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ljanotte/dio-desafil-webappreact-covid19#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ljanotte/dio-desafil-webappreact-covid19#-baixar">Baixar</a>
-</p>
-
 ---
 
 ## 📝 Descrição
