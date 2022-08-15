@@ -62,7 +62,7 @@ Os desafios são desenvolvidos e utilizandos as seguintes tecnologias e bibliote
 ```bash
 
 # Clonar projeto
-$ git clone https://github.com/ljanotte/dio-desafil-webappreact-covid19.git
+$ git clone git@github.com:felipesobrinho/DioPWACovid19.git
 
 # Entrar no projeto
 $ cd dio-desafil-webappreact-covid19
