@@ -65,7 +65,7 @@ Os desafios são desenvolvidos e utilizandos as seguintes tecnologias e bibliote
 $ git clone git@github.com:felipesobrinho/DioPWACovid19.git
 
 # Entrar no projeto
-$ cd dio-desafil-webappreact-covid19
+$ cd DioPWACovid19
 
 # Instalando e inicializando o projeto
 $ npm install
