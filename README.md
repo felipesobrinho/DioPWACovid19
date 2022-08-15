@@ -55,12 +55,6 @@ Os desafios são desenvolvidos e utilizandos as seguintes tecnologias e bibliote
 
 ```bash
 
-# Clonar projeto
-$ git clone git@github.com:felipesobrinho/DioPWACovid19.git
-
-# Entrar no projeto
-$ cd DioPWACovid19
-
 # Instalando e inicializando o projeto
 $ npm install
 $ yarn start
